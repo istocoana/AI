@@ -2,6 +2,7 @@
 <br>
 Completed as part of the Artificial Intelligence course at the Faculty of Economics and Business Administration, Babes Bolyai University.
 <br>
+<br>
 **Search Algorithms**<br>
 Implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are designed to solve navigation and traveling salesman problems within the Pacman world.
 <br>
