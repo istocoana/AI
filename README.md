@@ -1,4 +1,5 @@
-**# Pacman AI Algorithms**
+**# Pacman AI Algorithms** 
+<br>
 Completed as part of the Artificial Intelligence course at the Faculty of Economics and Business Administration, Babes Bolyai University.
 <br>
 **Search Algorithms**<br>
